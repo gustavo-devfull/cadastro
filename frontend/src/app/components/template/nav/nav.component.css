@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.sidenav {
+     background-color: #4d4d4d;
+     width: 170px;
+}
+
+.sidenav a {
+     color: #fff;
+     text-align: left;
+     font-family: 'Poppins', sans-serif;
+}
+
+.sidenav i {
+     padding-right: 10px;
+     padding-left: 10px;
+     vertical-align: middle;
+}
+.content {
+     padding: 16px;
+     background-color: #fff;
+}

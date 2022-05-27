@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.header .title-group {
+     font-family: 'Poppins', sans-serif;
+
+}
+
+.header {
+     display: flex;
+     align-items: center;
+
+
+}
+
+.header a {
+     display: flex;
+     align-items: center;
+     text-decoration: none;
+     color: #212121
+}
+
+.header .logo {
+     margin-left: 0px;
+
+}
+
+.header .title-group {
+     padding-left: 20px;
+
+}
+
+.header .title-group i {
+     padding-right: 5px;
+
+}

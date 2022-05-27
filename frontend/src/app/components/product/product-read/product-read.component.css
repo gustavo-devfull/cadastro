@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+table {
+     font-family: 'Poppins', sans-serif;
+     width: 100%;
+
+
+}
+
+a.edit {
+     color: #30a174;
+     cursor: pointer;
+     padding-right: 10px;
+}
+a.edit:hover {
+     color: #14573c;
+     cursor: pointer;
+     padding-right: 10px;
+}
+
+a.delete {
+     color: #f44336;
+     cursor: pointer;
+}
+
+a.delete:hover {
+     color: #79130c;
+     cursor: pointer;
+}
+.title-product {
+     font-family: 'Poppins', sans-serif;
+
+}
